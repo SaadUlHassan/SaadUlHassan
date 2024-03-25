@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="saadulhassan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadulhassan" alt="saadulhassan" /></a> </p>
-
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **MERN | PERN | JS | TS | React.js | Next.js | Node.js | Express.js | Nest.js | SQL | TypeORM | AWS | Docker | React Native**
