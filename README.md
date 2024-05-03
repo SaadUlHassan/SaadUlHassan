@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **MERN | PERN | JS | TS | React.js | Next.js | Node.js | Express.js | Nest.js | SQL | TypeORM | AWS | Docker | React Native**
+- 💬 Ask me about **MERN | PERN | JS | TS | React.js | Next.js | Node.js | Express.js | Nest.js | Python | Django | SQL | TypeORM | AWS | Docker | React Native**
 
 - 📫 How to reach me **saad.ul.hussan17@gmail.com**
 
