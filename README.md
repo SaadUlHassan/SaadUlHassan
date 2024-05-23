@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saad Ul Hassan</h1>
+
 <h3 align="center">A passionate Computer Scientist and Full Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="saadulhassan" /> </p>
