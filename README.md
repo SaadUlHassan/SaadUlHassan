@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="saadulhassan" /> </p>
 
-- 🌱 I’m currently learning **AWS**
-
 - 💬 Ask me about **MERN | PERN | JS | TS | React.js | Next.js | Ember.js | Node.js | Express.js | Nest.js | Python | Django | SQL | TypeORM | AWS | Docker | React Native**
 
 <h3 align="left">Languages and Tools:</h3>
