@@ -423,29 +423,29 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 ## 🏢 &nbsp;Career Journey
 
 ```
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║                                                                        ║
-  ║  > 2025 — Present                                                     ║
-  ║     TOPTAL (AgentPress)          Senior Full-Stack AI Engineer          ║
-  ║     United States (Remote)       Leading AI infrastructure & products   ║
-  ║                                  RAG • MCP • Voice AI • Cross-Platform  ║
-  ║                                                                        ║
-  ║  > 2022 — 2025                                                        ║
-  ║     EMBRACE-IT PAKISTAN           Senior Full Stack Engineer             ║
-  ║     Denmark (Remote)             Enterprise solutions • 3+ years        ║
-  ║                                  React • Node • NestJS • React Native   ║
-  ║                                                                        ║
-  ║  > 2021 — 2022                                                        ║
-  ║     SAUFIK                       Software Engineer → Frontend Lead      ║
-  ║     Islamabad, Pakistan          Promoted for performance & leadership  ║
-  ║                                  Led team of 4 • 85% bug fix rate       ║
-  ║                                                                        ║
-  ║  > 2018 — 2021                                                        ║
-  ║     INEFFABLE DEVS               Frontend Engineer                      ║
-  ║     Islamabad, Pakistan          React • Jest • Performance +33%        ║
-  ║                                  Maintenance overhead reduced 25%       ║
-  ║                                                                        ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │                                                                        │
+  │  > 2025 -- Present                                                     │
+  │    TOPTAL (AgentPress)         Senior Full-Stack AI Engineer            │
+  │    United States (Remote)      Leading AI infrastructure & products     │
+  │                                RAG | MCP | Voice AI | Cross-Platform    │
+  │                                                                        │
+  │  > 2022 -- 2025                                                        │
+  │    EMBRACE-IT PAKISTAN          Senior Full Stack Engineer               │
+  │    Denmark (Remote)            Enterprise solutions | 3+ years          │
+  │                                React | Node | NestJS | React Native     │
+  │                                                                        │
+  │  > 2021 -- 2022                                                        │
+  │    SAUFIK                      Software Engineer -> Frontend Lead       │
+  │    Islamabad, Pakistan         Promoted for performance & leadership    │
+  │                                Led team of 4 | 85% bug fix rate         │
+  │                                                                        │
+  │  > 2018 -- 2021                                                        │
+  │    INEFFABLE DEVS              Frontend Engineer                        │
+  │    Islamabad, Pakistan         React | Jest | Performance +33%          │
+  │                                Maintenance overhead reduced 25%         │
+  │                                                                        │
+  └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
