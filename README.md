@@ -29,7 +29,7 @@
 <!-- METRICS -->
 <img src="https://img.shields.io/badge/Experience-8%2B_Years-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
 &nbsp;
-<img src="https://img.shields.io/badge/Industries-6%2B_Verticals-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
+<img src="https://img.shields.io/badge/Industries-10%2B_Verticals-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
 &nbsp;
 <img src="https://img.shields.io/badge/Award-SCF_Round_%2311_Winner-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
 &nbsp;
@@ -57,6 +57,10 @@ class SaadUlHassan {
     "Transportation & Logistics",
     "Construction Management",
     "Fitness & Wellbeing",
+    "Booking & Reservation Systems",
+    "Real Estate & Property Tech",
+    "Healthcare & Telemedicine",
+    "EdTech & Learning Platforms",
   ];
 
   readonly architecture = [
@@ -66,6 +70,7 @@ class SaadUlHassan {
 
   readonly currentFocus = {
     building:    "Multi-tenant AI infrastructure at enterprise scale",
+    shipping:    "Booking & Reservation • Community • Housing platforms",
     leading:     "Engineering strategy & cross-platform product delivery",
     innovating:  "RAG pipelines • MCP ecosystems • Real-time voice AI",
   };
@@ -166,6 +171,7 @@ class SaadUlHassan {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### 🧪 Testing & Observability
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -173,6 +179,8 @@ class SaadUlHassan {
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Coralogix](https://img.shields.io/badge/Coralogix-000000?style=for-the-badge&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
@@ -181,6 +189,7 @@ class SaadUlHassan {
 
 ### 🔗 Integrations, Auth & Tooling
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![MS Teams](https://img.shields.io/badge/Teams_API-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
@@ -204,7 +213,7 @@ class SaadUlHassan {
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 &nbsp;AI Infrastructure — AgentPress
+### > &nbsp;AI Infrastructure — AgentPress
 > _Senior Full-Stack AI Engineer @ Toptal_
 
 Building **multi-tenant AI platforms** powering enterprise operations:
@@ -252,7 +261,7 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 
 ```
 ┌──────────────────────┬──────────────────────┬──────────────────────┐
-│   🔴 System Design   │  🔴 Design Patterns  │  🔴 Infrastructure   │
+│    SYSTEM DESIGN     │   DESIGN PATTERNS    │    INFRASTRUCTURE    │
 ├──────────────────────┼──────────────────────┼──────────────────────┤
 │  Microservices       │  SOLID Principles    │  AWS Multi-Region    │
 │  Event-Driven Arch   │  Repository Pattern  │  Docker + K8s        │
@@ -261,7 +270,7 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 │  Domain-Driven (DDD) │  MVC / MVVM         │  Load Balancing      │
 │  CQRS + Event Source │  Middleware Chains   │  Auto-Scaling        │
 ├──────────────────────┼──────────────────────┼──────────────────────┤
-│  🔴 Data Layer       │  🔴 Security         │  🔴 Quality          │
+│      DATA LAYER      │       SECURITY       │       QUALITY        │
 ├──────────────────────┼──────────────────────┼──────────────────────┤
 │  Schema Optimization │  OAuth 2.0 / JWT     │  TDD / BDD           │
 │  Query Refactoring   │  RBAC / ABAC         │  Unit + Integration  │
@@ -284,22 +293,22 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 ```
   ╔══════════════════════════════════════════════════════════════════════════╗
   ║                                                                        ║
-  ║  🔴 2025 — Present                                                     ║
+  ║  > 2025 — Present                                                     ║
   ║     TOPTAL (AgentPress)          Senior Full-Stack AI Engineer          ║
   ║     United States (Remote)       Leading AI infrastructure & products   ║
   ║                                  RAG • MCP • Voice AI • Cross-Platform  ║
   ║                                                                        ║
-  ║  🔴 2022 — 2025                                                        ║
+  ║  > 2022 — 2025                                                        ║
   ║     EMBRACE-IT PAKISTAN           Senior Full Stack Engineer             ║
   ║     Denmark (Remote)             Enterprise solutions • 3+ years        ║
   ║                                  React • Node • NestJS • React Native   ║
   ║                                                                        ║
-  ║  🔴 2021 — 2022                                                        ║
+  ║  > 2021 — 2022                                                        ║
   ║     SAUFIK                       Software Engineer → Frontend Lead      ║
   ║     Islamabad, Pakistan          Promoted for performance & leadership  ║
   ║                                  Led team of 4 • 85% bug fix rate       ║
   ║                                                                        ║
-  ║  🔴 2018 — 2021                                                        ║
+  ║  > 2018 — 2021                                                        ║
   ║     INEFFABLE DEVS               Frontend Engineer                      ║
   ║     Islamabad, Pakistan          React • Jest • Performance +33%        ║
   ║                                  Maintenance overhead reduced 25%       ║
@@ -319,7 +328,7 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 
 | | Credential | Institution |
 |:---:|:-----------|:------------|
-| 🎓 | **B.S. Computer Science** | University of Engineering & Technology, Taxila |
+| 🎓 | **B.S. Computer Science** — [WES Evaluated](https://badges.wes.org/Evidence?i=1f5ba275-fcc7-4898-a373-ccca4b759e5c) | University of Engineering & Technology, Taxila |
 | 🔐 | **PGD Cyber Security** | Preston University |
 | 📜 | **Ilm-E-Deen** — Shariah & Islamic Studies | Alburhan Lahore |
 | 🏅 | **Winner — Stellar Community Fund Round #11** | Stellar Development Foundation |
