@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/Award-SCF_Round_%2311_Winner-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
 &nbsp;
 <img src="https://img.shields.io/badge/Delivery-Enterprise_Scale-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2ea44f?style=flat-square&labelColor=1a202c&color=2ea44f" />
 
 </div>
 
@@ -255,6 +257,133 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp;AgentPress
+> _AI-Powered Business Case Generation_
+
+Enterprise AI platform that automates customized business value cases for sales teams. Patented AI generates persuasive financial justifications from a prospect's URL.
+
+🔸 **+35%** avg deal size &nbsp; 🔸 **+48%** close rates &nbsp; 🔸 **-25%** sales cycles
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-e74c3c?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-8B5CF6?style=flat-square)
+
+<a href="https://agent.press/"><img src="https://img.shields.io/badge/Live-agent.press-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏘️ &nbsp;KEYS Community
+> _Connect With Your Neighbourhood_
+
+Cross-platform community app connecting residents with local services, events, and committees. Backend, web, admin panel, and ML-powered service classification.
+
+🔸 **Web + iOS + Android** &nbsp; 🔸 **ML Classification** &nbsp; 🔸 **Multi-tenant**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<a href="https://keyscommunity.co.uk/"><img src="https://img.shields.io/badge/Live-keyscommunity.co.uk-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💪 &nbsp;Fitness & Wellbeing Platform
+> _Enterprise Boutique Fitness Management_
+
+Multi-tenant SaaS powering boutique fitness studios — class scheduling, member management, billing, and real-time analytics across hundreds of locations.
+
+🔸 **Multi-tenant SaaS** &nbsp; 🔸 **Ember + Django** &nbsp; 🔸 **Enterprise Scale**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=ember.js&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ &nbsp;Projul
+> _Construction Management Software_
+
+All-in-one platform for construction companies to manage projects, teams, budgets, and communication — maximizing profit and streamlining operations.
+
+🔸 **Project Management** &nbsp; 🔸 **Team Coordination** &nbsp; 🔸 **Financial Tracking**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+<a href="https://projul.com/"><img src="https://img.shields.io/badge/Live-projul.com-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 &nbsp;Asteria.ai
+> _Smart Cash Flow Forecasting_
+
+AI-powered financial platform helping 10,000+ businesses forecast cash flow, identify risk, assess profitability, and plan capital deployment with intelligent recommendations.
+
+🔸 **AI Forecasting** &nbsp; 🔸 **10K+ Businesses** &nbsp; 🔸 **Fintech**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+<a href="http://asteria.ai/"><img src="https://img.shields.io/badge/Live-asteria.ai-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⭐ &nbsp;Service Lovers
+> _Customer Feedback & Employee Engagement_
+
+Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven insights, gamified employee performance tracking, and real-time dashboards across distributed locations.
+
+🔸 **50+ DB Entities** &nbsp; 🔸 **Multi-location** &nbsp; 🔸 **Gamification**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid&logoColor=white)
+
+<a href="https://servicelovers.com/"><img src="https://img.shields.io/badge/Live-servicelovers.com-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ARCHITECTURE EXPERTISE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -375,17 +504,33 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 
 ---
 
+## ⌨️ &nbsp;Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SaadUlHassan&layout=compact&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&text_color=1a202c&langs_count=10" width="60%" />
+
+</div>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+### 💬 &nbsp;Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson)
+
+---
+
 ### 🤝 &nbsp;Let's Build Something Exceptional
 
 <br/>
 
-Whether you need a **technical co-founder**, a **senior engineer** to scale your product,  
+Whether you need a **technical co-founder**, a **senior engineer** to scale your product,
 or an **AI architect** to build intelligent systems, I deliver results that impact the bottom line.
 
 <br/>
