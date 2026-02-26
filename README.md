@@ -20,7 +20,7 @@
 <a href="mailto:saad.ul.hussan17@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-c0392b?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://www.toptal.com">
+<a href="https://www.toptal.com/developers/resume/saad-ul-hassan">
   <img src="https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white" />
 </a>
 
@@ -81,7 +81,7 @@ class SaadUlHassan {
 }
 ```
 
-> **I don't just write code — I engineer revenue-driving systems.**  
+> **I don't just write code, I engineer revenue-driving systems.**  
 > From payment platforms processing millions in transactions to AI infrastructure serving enterprise clients, I build software designed to scale with your ambition.
 
 ---
@@ -161,6 +161,7 @@ class SaadUlHassan {
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🗃️ Databases, Cache & Messaging
@@ -172,6 +173,8 @@ class SaadUlHassan {
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonsimplenotificationservice&logoColor=white)
 
 ### 🧪 Testing & Observability
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -213,7 +216,7 @@ class SaadUlHassan {
 <tr>
 <td width="50%" valign="top">
 
-### > &nbsp;AI Infrastructure — AgentPress
+### > &nbsp;AI Infrastructure, AgentPress
 > _Senior Full-Stack AI Engineer @ Toptal_
 
 Building **multi-tenant AI platforms** powering enterprise operations:
@@ -222,7 +225,7 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 🔸 Architected **RAG pipelines** with PGVector for intelligent retrieval  
 🔸 Created local + remote **MCP server ecosystems** for client apps  
 🔸 Built bulk **Whisper + FFmpeg** voice transcription pipelines  
-🔸 Shipped cross-platform chatbots — **Web, iOS, Android**  
+🔸 Shipped cross-platform chatbots, **Web, iOS, Android**  
 🔸 Integrated **MS Teams, Slack, SAP, Stripe** for enterprise extensibility  
 🔸 Drove adoption of **AI-first development workflows** org-wide  
 
@@ -242,7 +245,7 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 
 <br/>
 
-> _"Every architecture decision drives scalability. Every solution is designed to grow with your business — not hold it back."_
+> _"Every architecture decision drives scalability. Every solution is designed to grow with your business, not hold it back."_
 
 </td>
 </tr>
@@ -274,9 +277,9 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 ├──────────────────────┼──────────────────────┼──────────────────────┤
 │  Schema Optimization │  OAuth 2.0 / JWT     │  TDD / BDD           │
 │  Query Refactoring   │  RBAC / ABAC         │  Unit + Integration  │
-│  DB Indexing         │  Secure HTTP Headers │  E2E with Cypress    │
+│  DB Indexing         │  Secure HTTP Headers │  E2E + Perf Testing  │
 │  Caching Strategies  │  Input Validation    │  Code Reviews        │
-│  Data Migrations     │  Rate Limiting       │  Agile / Scrum       │
+│  Data Migrations     │  Rate Limiting       │  Observability       │
 └──────────────────────┴──────────────────────┴──────────────────────┘
 ```
 
@@ -328,10 +331,10 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 
 | | Credential | Institution |
 |:---:|:-----------|:------------|
-| 🎓 | **B.S. Computer Science** — [WES Evaluated](https://badges.wes.org/Evidence?i=1f5ba275-fcc7-4898-a373-ccca4b759e5c) | University of Engineering & Technology, Taxila |
+| 🎓 | **B.S. Computer Science**, [WES Evaluated](https://badges.wes.org/Evidence?i=1f5ba275-fcc7-4898-a373-ccca4b759e5c) | University of Engineering & Technology, Taxila |
 | 🔐 | **PGD Cyber Security** | Preston University |
-| 📜 | **Ilm-E-Deen** — Shariah & Islamic Studies | Alburhan Lahore |
-| 🏅 | **Winner — Stellar Community Fund Round #11** | Stellar Development Foundation |
+| 📜 | **Ilm-E-Deen**, Shariah & Islamic Studies | Alburhan Lahore |
+| 🏅 | **Winner, Stellar Community Fund Round #11** | Stellar Development Foundation |
 
 </div>
 
@@ -383,7 +386,7 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 <br/>
 
 Whether you need a **technical co-founder**, a **senior engineer** to scale your product,  
-or an **AI architect** to build intelligent systems — I deliver results that impact the bottom line.
+or an **AI architect** to build intelligent systems, I deliver results that impact the bottom line.
 
 <br/>
 
