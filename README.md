@@ -477,12 +477,12 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaadUlHassan&show_icons=true&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&icon_color=c0392b&text_color=1a202c&ring_color=e74c3c&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadUlHassan&hide_border=true&background=f8f9fa&ring=e74c3c&fire=c0392b&currStreakLabel=e74c3c&sideLabels=1a202c&currStreakNum=1a202c&sideNums=1a202c&dates=4a5568" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SaadUlHassan&show_icons=true&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&icon_color=c0392b&text_color=1a202c&ring_color=e74c3c&count_private=true&cache_seconds=86400" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=SaadUlHassan&hide_border=true&background=f8f9fa&ring=e74c3c&fire=c0392b&currStreakLabel=e74c3c&sideLabels=1a202c&currStreakNum=1a202c&sideNums=1a202c&dates=4a5568" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadUlHassan&layout=compact&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&text_color=1a202c&langs_count=10&count_private=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadUlHassan&layout=compact&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&text_color=1a202c&langs_count=10&cache_seconds=86400" width="42%" />
 
 </div>
 
@@ -492,7 +492,7 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=SaadUlHassan&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&title_color=e74c3c)
+![](https://github-profile-trophy.vercel.app/?username=SaadUlHassan&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
@@ -504,15 +504,6 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 
 ---
 
-## ⌨️ &nbsp;Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SaadUlHassan&layout=compact&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&text_color=1a202c&langs_count=10" width="60%" />
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
